@@ -1,0 +1,22 @@
+**********************************
+
+Nguồn: https://thuthuatwiki.com/share-theme-flatsome-wordpress/
+
+**********************************
+
+
+Đây là một plugin kích hoạt bản quyền theme Flatsome hoàn toàn miễn phí. 
+Sau khi tải plugin về bạn hãy tiến hành cài đặt và kích hoạt plugin như bình thường trên Wordpress.
+Sau khi kích hoạt thành công thì plugin sẽ tự động thêm key bản quyền cho theme Flatsome, bây giờ bạn chỉ cần xoá plugin là xong.
+
+
+**********************************
+
+Source: https://thuthuatwiki.com/share-theme-flatsome-wordpress/
+
+**********************************
+
+This Flatsome theme activation plugin is entirely free.
+Install and activate the plugin on Wordpress as usual after downloading it.
+After successful activation, the plugin will automatically add the Flatsome theme's licensing key; 
+all that remains is to delete the plugin.
